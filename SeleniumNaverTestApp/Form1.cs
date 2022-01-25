@@ -80,8 +80,6 @@ namespace SeleniumAutoMusicApp
             if (LogBox.Text.Length > 3_000) LogBox.Text = ""; // 3000자 표현후 텍스트 클리어. (성능 부분 고려) 
             LogBox.AppendText(log + Environment.NewLine);
             LogBox.SelectionStart = LogBox.Text.Length;
-
-            Console.WriteLine("dd");
         }
 
         private void Start_Click(object sender, EventArgs e)
