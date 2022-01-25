@@ -85,7 +85,7 @@ namespace SeleniumAutoMusicApp
         private void Start_Click(object sender, EventArgs e)
         {            
             driver = new ChromeDriver(driverService, options);
-
+            Console.WriteLine("error");
             writeRichLog(($"[{DateTime.Now}] : Driver 생성 완료."));
             try
             {
