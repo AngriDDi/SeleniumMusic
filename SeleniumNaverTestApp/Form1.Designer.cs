@@ -1,4 +1,4 @@
-﻿namespace SeleniumNaverTestApp
+﻿namespace SeleniumAutoMusicApp
 {
     partial class Form1
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNaverTestApp", "SeleniumNaverTestApp\SeleniumNaverTestApp.csproj", "{2A06B1D3-CA73-4BC1-A3BF-85D5FACC3361}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumAutoMusicApp", "SeleniumNaverTestApp\SeleniumAutoMusicApp.csproj", "{2A06B1D3-CA73-4BC1-A3BF-85D5FACC3361}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

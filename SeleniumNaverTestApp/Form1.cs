@@ -15,7 +15,7 @@ using MetroFramework.Forms;
 using MetroFramework.Components;
 using MetroFramework;
 
-namespace SeleniumNaverTestApp
+namespace SeleniumAutoMusicApp
 {
     public partial class Form1 : MetroForm
     {
